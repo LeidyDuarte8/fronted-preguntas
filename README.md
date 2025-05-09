@@ -40,10 +40,7 @@ frontend/
 
 ## Configuración
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/devmiguelgomez/chatgptfront.git
-   cd chat-gpt-app/chatgptback
+
    ```
 
 
